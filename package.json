@@ -18,6 +18,7 @@
   "dependencies": {
     "@azure/msal-node": "^2.9.2",
     "@microsoft/microsoft-graph-client": "^3.0.7",
+    "@upstash/redis": "^1.31.6",
     "axios": "^1.7.2",
     "bullmq": "^5.8.2",
     "crypto": "^1.0.1",
@@ -26,6 +27,7 @@
     "express-session": "^1.18.0",
     "google-auth-library": "^9.11.0",
     "googleapis": "^140.0.1",
-    "ioredis": "^5.4.1"
+    "ioredis": "^5.4.1",
+    "redis": "^4.6.14"
   }
 }
